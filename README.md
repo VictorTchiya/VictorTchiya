@@ -1,16 +1,35 @@
-## Olá, eu sou Victor Tchiya 👋
+<h1 align="center">Olá, eu sou o Victor Tchiya! 👋</h1>
 
-<!--
-**VictorTchiya/VictorTchiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎭 **Professor de Arte | 🎨 Especialista em Dança e Consciência Corporal | 📊 Futuro Analista de Dados**  
 
-Here are some ideas to get you started:
+---
 
-**Atualmente estou trabalhando como Docente em Arte pela Prefeitura de Osasco, mas em transição de carreira para a área de Dados (Análise de Dados)** 
+### 🚀 Sobre mim  
+Sou docente de Arte na Prefeitura de Osasco, atualmente em **transição de carreira para Análise de Dados**. Tenho experiência em teatro, dança e consciência corporal, e agora estou explorando o mundo dos dados!  
 
-**Atualmente estou aprendendo a utilizar o Excel para Análise de Dados - curso em progresso pela Preditiva Analytics, além disso estou realizando o curso de Análise de Dados pelo Instituto Joga Junto.**
+Atualmente, estou me especializando em **Excel para Análise de Dados** (Preditiva Analytics) e no curso de **Análise de Dados pelo Instituto Joga Junto**.  
 
-**Como entrar em contato comigo**
-Via e-mail: victor.tchiya@yahoo.com.br
+---
 
+### 🔧 Tecnologias & Ferramentas  
+📌 **Estudando atualmente:**  
+- Excel para Análise de Dados  
+ 
+  
+📌 **Próximos passos:**  
+- Machine Learning  
+- Storytelling com Dados
+- Python e Pandas
+- SQL
+- Power BI 
 
--->
+---
+
+### 📬 Como me encontrar  
+📧 **E-mail:** [victor.tchiya@yahoo.com.br](mailto:victor.tchiya@yahoo.com.br)  
+🔗 **LinkedIn:** [[linkedin.com/in/victor-tchiya](https://www.linkedin.com/in/victor-tchiya/)](#)  
+🐙 **GitHub:** [github.com/VictorTchiya](https://github.com/VictorTchiya)  
+
+---
+
+🚀 *Buscando minha primeira oportunidade na área de Dados!*
