@@ -7,7 +7,7 @@
 ### 🚀 Sobre mim  
 Sou docente de Arte na Prefeitura de Osasco, atualmente em **transição de carreira para Análise de Dados**. Tenho experiência em teatro, dança e consciência corporal, e agora estou explorando o mundo dos dados!  
 
-Atualmente, estou me especializando em **Excel para Análise de Dados** (Preditiva Analytics) e no curso de **Análise de Dados pelo Instituto Joga Junto**.  
+Atualmente, estou me especializando em **Excel para Análise de Dados** (Preditiva Analytics e curso do Profº Paulo Froés) e no curso de **Análise de Dados pelo Instituto Joga Junto**.  
 
 ---
 
