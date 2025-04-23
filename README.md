@@ -8,7 +8,7 @@
 Sou docente de Arte na Prefeitura de Osasco, atualmente em **transição de carreira para Análise de Dados**. Tenho experiência em teatro, dança e consciência corporal, e agora estou explorando o mundo dos dados!  
 
 Atualmente, estou me especializando em **Excel para Análise de Dados** (Preditiva Analytics e curso do Profº Paulo Froés) e no curso de **Análise de Dados pelo Instituto Joga Junto**. 
-Iniciei o curso  **SQL para iniciantes** pelo canal **DevAprender** e tem sido de grande aprendizado. 
+Atualmente também estou aprendendo **SQL** por meio do curso para iniciantes do canal **DevAprender**, e tem sido uma experiência enriquecedora. 
 
 ---
 
@@ -22,7 +22,23 @@ Iniciei o curso  **SQL para iniciantes** pelo canal **DevAprender** e tem sido d
 - Machine Learning  
 - Storytelling com Dados
 - Python e Pandas
-- Power BI 
+- Power BI
+
+  ---
+
+## 📚 Formação
+
+- 🎓 **Técnico em Desenvolvimento de Sistemas** – Escola Técnica FAT  
+  *Início previsto: abril de 2025*  
+  Curso técnico voltado para desenvolvimento de software, com foco em lógica de programação, linguagens como Java, Python e JavaScript, banco de dados e desenvolvimento web.
+
+- 📊 **Cursos Livres em Análise de Dados**  
+  Estudo contínuo em ferramentas e linguagens como Python, SQL, Excel e Power BI, por meio de escolas como:  
+  - Instituto Joga Junto  
+  - XPE Educação  
+  - Preditiva A.I.  
+  - Prof. Paulo Froes
+
 
 ---
 
