@@ -44,7 +44,7 @@ Atualmente também estou aprendendo **SQL** por meio do curso para iniciantes do
 
 ### 📬 Como me encontrar  
 📧 **E-mail:** [victor.tchiya@yahoo.com.br](mailto:victor.tchiya@yahoo.com.br)  
-🔗 **LinkedIn:** [[linkedin.com/in/victor-tchiya](https://www.linkedin.com/in/victor-tchiya/)](#)  
+🔗 **LinkedIn:** [linkedin.com/in/victor-tchiya](https://www.linkedin.com/in/victor-tchiya/)  
 🐙 **GitHub:** [github.com/VictorTchiya](https://github.com/VictorTchiya)  
 
 ---
