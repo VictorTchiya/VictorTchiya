@@ -40,6 +40,15 @@ Além disso, estou dando meus primeiros passos no **Técnico em Desenvolvimento 
   - XPE Educação  
   - Preditiva A.I.  
   - Prof. Paulo Froes
+ 
+---
+
+### 📊 Estatísticas GitHub
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=VictorTchiya&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTchiya&layout=compact&theme=default)
+
 
 
 ---
@@ -57,7 +66,4 @@ Além disso, estou dando meus primeiros passos no **Técnico em Desenvolvimento 
 
 
 
-📘 Atualmente estudando:
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL / SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" alt="Excel"/> </div>
-🎯 Em breve pretendo aprender:
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" alt="Power BI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/> </div>
+
