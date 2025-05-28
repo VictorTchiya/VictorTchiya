@@ -13,6 +13,11 @@ Concluí o curso de *SQL para iniciantes* pelo canal **DevAprender**, e foi uma 
 Além disso, estou dando meus primeiros passos no **Técnico em Desenvolvimento de Sistemas** pela **Escola Técnica FAT** (início em abril de 2025), onde estou começando a adquirir conhecimentos fundamentais em programação, banco de dados e desenvolvimento de software.
 
 ---
+## 📂 Repositórios em destaque
+- [Técnico Desenvolvimento FAT](https://github.com/VictorTchiya/T-cnico-Desenvolvimento-FAT) – Projetos e atividades do curso técnico.
+- [Análise de dados do Instituto Joga Junto](https://github.com/VictorTchiya/portfolio-analise-de-dados) - Materiais do curso de Análise de Dados
+- 
+
 
 ### 🔧 Tecnologias & Ferramentas  
 📌 **Estudando atualmente:**  
