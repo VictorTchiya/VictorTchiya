@@ -35,6 +35,10 @@ Além disso, estou dando meus primeiros passos no **Técnico em Desenvolvimento 
 
 ## 📚 Formação
 
+- 🎓 **Tecnológico em Gestão de T.I com ênfase em Infraestrutura de T.I e Big Data** –Faculdade Uníntese  
+  *Início: junho de 2025 e término previsto: dezembro de 2027*  
+  Curso superior voltado para gerenciamento de recursos de hardware, software, bancos de dados e equipes de TI, alinhados à estratégia organizacional. Projetos de soluções tecnológicas para infraestrutura, e‑commerce, gestão de dados, segurança e ensino remoto.
+
 - 🎓 **Técnico em Desenvolvimento de Sistemas** – Escola Técnica FAT  
   *Início: abril de 2025 e término previsto: outubro de 2026*  
   Curso técnico voltado para desenvolvimento de software, com foco em lógica de programação, linguagens como Java, Python e JavaScript, banco de dados e desenvolvimento web.
