@@ -10,7 +10,7 @@ Sou docente de Arte na Prefeitura de Osasco, atualmente em **transição de carr
 Atualmente, estou me especializando em **Excel para Análise de Dados** (Preditiva Analytics e curso do Profº Paulo Froés) e no curso de **Análise de Dados pelo Instituto Joga Junto**. 
 Concluí o curso de *SQL para iniciantes* pelo canal **DevAprender**, e foi uma experiência enriquecedora.
 
-Além disso, estou dando meus primeiros passos no **Técnico em Desenvolvimento de Sistemas** pela **Escola Técnica FAT** (início em abril de 2025), onde estou começando a adquirir conhecimentos fundamentais em programação, banco de dados e desenvolvimento de software.
+Além disso, estou dando meus primeiros passos no **Técnico em Desenvolvimento de Sistemas** pela **Escola Técnica FAT** (início em abril de 2025), onde estou começando a adquirir conhecimentos fundamentais em programação, banco de dados e desenvolvimento de software, e também **Curso Superior em Gestão de T.T** pela **Faculdade Uníntese** com **foco na gestão e dados**.  
 
 ---
 ## 📂 Repositórios em destaque
