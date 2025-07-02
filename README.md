@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Victor Tchiya! 👋</h1>
 
-🎭 **Professor de Arte | 🎨 Especialista em Dança e Consciência Corporal | 📊 Futuro Analista de Dados**  
+ **Estudante de Tecnologia**  | **Em busca de Estágio em Análise de Dados** | **SQL • Excel • Python** | **Transição de Carreira** 
 
 ---
 
